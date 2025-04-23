@@ -11,7 +11,6 @@ import Blog from "@/components/sections/home2/Blog";
 import Room from "@/components/sections/home2/Room";
 import Testimonial from "@/components/sections/home2/Testimonial";
 
-
 export default function Home() {
   return (
     <>
